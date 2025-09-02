@@ -1,0 +1,14 @@
+{
+    "dataset_name": "Alu",
+    "K": 0.25,
+    "Lmin": 0.3,
+    "temp_factor_pre_train": 2,
+    "temp_factor_meta_learning": 0.1,
+    "learning_rate": 0.01,
+    "epoch": 100,
+    "learning_rate_meta": 0.001,
+    "epoch_meta": 700,
+    "lw": 0.00005,
+    "ONLINE_MONITOR":0,
+    "alpha_new_class":4
+}
